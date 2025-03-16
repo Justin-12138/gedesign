@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-./docs/
+./docs
 ./ref/
 
 # Distribution / packaging
